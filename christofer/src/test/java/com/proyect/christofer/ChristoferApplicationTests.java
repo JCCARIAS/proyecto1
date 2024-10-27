@@ -1,0 +1,13 @@
+package com.proyect.christofer;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class ChristoferApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
